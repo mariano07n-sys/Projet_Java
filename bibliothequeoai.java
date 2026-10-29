@@ -1,8 +1,3 @@
-/*Ce projet est un projet personnel développer dans le cadre d'un réinvestissement des acquis après deux semaines de cours en Java.
-Contrairement à l'apprentissage qui s'est fait en autodictate, le projet est développé avec l'aide des modèles d'IA Claude Sonnet 5 et 
-ChatGpt 5.La logique de développement est entièrement sous ma responsabilité. Le modèle ne sert qu'à l'implémenter pour me permettre 
-d'acquérir les réflexes à avoir dans ce genre de projet.C'est un outil de gestion de librairie pour faciliter
-la réalisation de l'inventaire ainsi que la gestion des achats.  */
 import java.util.Scanner;
 import java.util.ArrayList;
 //Création de la classe book  purement orienté data
